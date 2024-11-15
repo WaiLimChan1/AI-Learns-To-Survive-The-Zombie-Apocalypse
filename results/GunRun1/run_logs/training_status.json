@@ -1,0 +1,65 @@
+{
+    "Gun": {
+        "checkpoints": [
+            {
+                "steps": 7499974,
+                "file_path": "results\\GunRun1\\Gun\\Gun-7499974.onnx",
+                "reward": 217.5,
+                "creation_time": 1731303045.0765924,
+                "auxillary_file_paths": [
+                    "results\\GunRun1\\Gun\\Gun-7499974.pt"
+                ]
+            },
+            {
+                "steps": 7999956,
+                "file_path": "results\\GunRun1\\Gun\\Gun-7999956.onnx",
+                "reward": 131.66666666666666,
+                "creation_time": 1731303426.653521,
+                "auxillary_file_paths": [
+                    "results\\GunRun1\\Gun\\Gun-7999956.pt"
+                ]
+            },
+            {
+                "steps": 8499972,
+                "file_path": "results\\GunRun1\\Gun\\Gun-8499972.onnx",
+                "reward": 233.33333333333334,
+                "creation_time": 1731303804.0882468,
+                "auxillary_file_paths": [
+                    "results\\GunRun1\\Gun\\Gun-8499972.pt"
+                ]
+            },
+            {
+                "steps": 8999964,
+                "file_path": "results\\GunRun1\\Gun\\Gun-8999964.onnx",
+                "reward": 192.5,
+                "creation_time": 1731304171.0269153,
+                "auxillary_file_paths": [
+                    "results\\GunRun1\\Gun\\Gun-8999964.pt"
+                ]
+            },
+            {
+                "steps": 9396629,
+                "file_path": "results\\GunRun1\\Gun\\Gun-9396629.onnx",
+                "reward": null,
+                "creation_time": 1731304433.227616,
+                "auxillary_file_paths": [
+                    "results\\GunRun1\\Gun\\Gun-9396629.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 9396629,
+            "file_path": "results\\GunRun1\\Gun.onnx",
+            "reward": null,
+            "creation_time": 1731304433.227616,
+            "auxillary_file_paths": [
+                "results\\GunRun1\\Gun\\Gun-9396629.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.5.1+cpu"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "Survivor": {
+        "checkpoints": [
+            {
+                "steps": 4376752,
+                "file_path": "results\\SurvivorRun1\\Survivor\\Survivor-4376752.onnx",
+                "reward": 227.23765090416217,
+                "creation_time": 1731283066.785043,
+                "auxillary_file_paths": [
+                    "results\\SurvivorRun1\\Survivor\\Survivor-4376752.pt"
+                ]
+            },
+            {
+                "steps": 4999999,
+                "file_path": "results\\SurvivorRun1\\Survivor\\Survivor-4999999.onnx",
+                "reward": 102.5695537415243,
+                "creation_time": 1731284553.9666054,
+                "auxillary_file_paths": [
+                    "results\\SurvivorRun1\\Survivor\\Survivor-4999999.pt"
+                ]
+            },
+            {
+                "steps": 5499973,
+                "file_path": "results\\SurvivorRun1\\Survivor\\Survivor-5499973.onnx",
+                "reward": 318.58124748865765,
+                "creation_time": 1731284902.2458222,
+                "auxillary_file_paths": [
+                    "results\\SurvivorRun1\\Survivor\\Survivor-5499973.pt"
+                ]
+            },
+            {
+                "steps": 5999988,
+                "file_path": "results\\SurvivorRun1\\Survivor\\Survivor-5999988.onnx",
+                "reward": 158.6122205082963,
+                "creation_time": 1731285263.0619051,
+                "auxillary_file_paths": [
+                    "results\\SurvivorRun1\\Survivor\\Survivor-5999988.pt"
+                ]
+            },
+            {
+                "steps": 6347907,
+                "file_path": "results\\SurvivorRun1\\Survivor\\Survivor-6347907.onnx",
+                "reward": 225.11972277739952,
+                "creation_time": 1731285543.5809667,
+                "auxillary_file_paths": [
+                    "results\\SurvivorRun1\\Survivor\\Survivor-6347907.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 6347907,
+            "file_path": "results\\SurvivorRun1\\Survivor.onnx",
+            "reward": 225.11972277739952,
+            "creation_time": 1731285543.5809667,
+            "auxillary_file_paths": [
+                "results\\SurvivorRun1\\Survivor\\Survivor-6347907.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.5.1+cpu"
+    }
+}
